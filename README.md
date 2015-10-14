@@ -8,6 +8,6 @@ The topics covered each week will be briefly summarized here on GitHub in case a
 
 Workshops are held after 10th period at Brooklyn Technical High School on Thursdays in room 5E7.
 
-Disclaimer:
+#### Disclaimer:
 
 The content of these workshops is intended to be strictly for educational purposes. BTHS Cybersecurity Club does not endorse or promote any kind of illegal offensive attacks. Please make wise decisions. You will be held responsible for your own actions.
