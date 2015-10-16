@@ -8,3 +8,5 @@ If you are bringing your own laptop please make you download and install the fol
 (We will go over the differences and preferences during club)
 
 If you are unable to bring in your own laptop please download and install [Babun](http://babun.github.io/) during the beginning of the workshop.
+
+[Here](http://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/) is a great tutorial on how to set up a VM for anyone who is having any trouble.
