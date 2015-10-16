@@ -12,7 +12,7 @@ You can find this weeks presentation [here](https://goo.gl/nIRjsJ)
 * ```ls``` - lists all the files
 * ```cd``` - change working directory
 * ```pwd``` - print working directory
-* ```mkdir`` - create a directory
+* ```mkdir``` - create a directory
 * ```cp``` - copy a file or directory
 * ```mv``` - move a file or directory
 * ```rm``` - delete a file or directory
