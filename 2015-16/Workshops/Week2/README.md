@@ -1,10 +1,6 @@
 #Week 2: Virtual Machines and Linux
 
-You can find this weeks presentation [here](https://docs.google.com/presentation/d/15B-QUuf6CjwKjWJIWiXk46wcXsKYmvMeDM2hWBdriWk/edit?pli=1#slide=id.gcb84b61d4_0_116)
-###Operating Systems
-1. Windows
-2. Mac
-3. Linux
+You can find this week's presentation [here](https://docs.google.com/presentation/d/15B-QUuf6CjwKjWJIWiXk46wcXsKYmvMeDM2hWBdriWk/edit?pli=1#slide=id.gcb84b61d4_0_116).
 
 ###Desktop vs. Server
 * Desktop
@@ -21,15 +17,16 @@ You can find this weeks presentation [here](https://docs.google.com/presentation
   - usually configured for a specific purpose
 
 ###Linux vs. Windows Servers
-Linux acts a much more convinient service; while windows serves require restarts for updates and to modify programs (installing/uninstalling), Linux rarely requires restarts.  Linux also offers greater stability and security, and is free!
+Linux acts a much more convinient service; while windows servers require restarts for updates and to modify programs (installing/uninstalling), Linux rarely requires restarts.  Linux also offers greater stability and security, and is free!
 
 ###Virtual Machines
 * Flexibility 
-  - Hosted on remote servers, running in a window on your screen; allows you to experiment with different operating systems.
+  - Are hosted on remote servers and run in a window on your screen
+  - Allow you to experiment with different operating systems.
 * Safety
-  - Great for cyber security excercises, acts kinda like insurance; if you get a virus on a VM, it's not problem, and doesn't affect your actual machine
+  - Great for cyber security excercises, act like insurance; if you get a virus on a VM, it's not problem since it doesn't affect your actual computer.
 * Cross OS interaction
-  - Can use different operating systems; allows you to use software only available to certain OS
+  - Allow you to use software only available on certain operating systems.
 
 ###LUI vs. GUI: User Interfaces
 A user interface is where humans and machines interact.
@@ -60,12 +57,18 @@ Two different types- one of those internal rivalry debate things amongst program
 * ```clear``` - clears your terminal window of past commands
 
 ##### Wildcard Operator
-The ```*``` operator can be used in many way:
-* 
+The ```*``` operator can be used in many ways:
+* ```<command> foo/*``` affects all files in directory foo
+* ```<command> *.txt``` affects all files with names ending in “.txt”
+* ```<command> img*``` affects all files with names starting with “img”
+* ```<command> *k*``` affects all files with names containing “k”
 
 ### Sudo and Root
 sudo make me a sandwich
+<br />
+* Root is the highest level user in a unix/linux system
+* Most OS’s do not allow users to login as root but can execute operations as root temporarily using “sudo”
+* Some files and programs can only be accessed by root
+* You can call any command as root by adding ```sudo``` to the beginning of the command:
+  - ```sudo rm```, for example
 
-
-
-*** in the process of being written ***
