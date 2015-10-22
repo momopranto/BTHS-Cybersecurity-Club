@@ -1,4 +1,4 @@
-#Excercises 
+#Exercises
 Here are some simple exercises to help you get more comfortable with the command line:
 
 We will start out with some easy stuff and slowly try more advanced things.
