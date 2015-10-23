@@ -56,7 +56,7 @@ These are more vim commands you can use in the terminal; they're useful for when
 * ```echo``` - prints text to the console
 * ```less``` - lets you view and scroll through a file
 * ```grep``` - insanely useful pattern matcher
-  - think of ```grep``` as the ```Ctrl+F``` of the terminal
+  - think of ```grep``` as the ```Ctrl+F``` of the terminal, but for your whole computer
     - search for a word in text files or file names
     - supports regular expressions
     - very useful in combination with [pipe][4] ```|```
