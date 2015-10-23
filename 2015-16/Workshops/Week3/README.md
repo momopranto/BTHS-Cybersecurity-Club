@@ -14,7 +14,7 @@ Practical shortcuts within the linux terminal:
 
 ## Vim
 * better than [emacs][1]
-* [download it here][2]
+* download: ```sudo apt-get install vim```
 * **this [tutorial link][3] is the only way you will learn all the shortcuts- just staring at a reference list won't help you!**
 
 * #### Modes
@@ -79,7 +79,10 @@ will be updated soon :))))
 
 [1]:https://www.gnu.org/software/emacs/
 [2]:http://www.vim.org/
-[3]:http://vim.wikia.com/wiki/Tutorial
+[3]:http://openvim.com/
 [4]:http://www.codecoffee.com/tipsforlinux/articles/25.html
+[5]:https://www.digitalocean.com/community/tutorials/what-is-ftp-and-how-is-it-used
+[6]:https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-i-o-redirection
+
 
 
