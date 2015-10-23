@@ -37,7 +37,7 @@ A user interface is where humans and machines interact.
 
 ### The Command Line
 Two different types- one of those internal rivalry debate things amongst programmers
-* Bash - Bourne Again SHell
+* Bash - **B**ourne **A**gain **SH**ell
   - Most commonly supported
   - Scripting support, closely follows POSIX standards
 * Z Shell (zsh)
