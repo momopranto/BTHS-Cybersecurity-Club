@@ -15,8 +15,7 @@ Shortcuts within linux
 ## Vim
 * better than [emacs][1]
 * [download it here][2]
-
-**this [tutorial link][3] is the only way you will learn all the shortcuts- just staring at a reference list won't help you!**
+* **this [tutorial link][3] is the only way you will learn all the shortcuts- just staring at a reference list won't help you!**
 
 * #### Modes
   - normal
