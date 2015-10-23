@@ -39,7 +39,7 @@ check out that tutorial link now and walk through all of these!
   - ```p``` - paste
 
 * #### advAnCeD vim
-It's about to get faster and more efficient up in here
+It's about to get faster and more efficient up in here:
   - ```yy``` - *copy* an entire line
   - ```dd``` - *cut* an entire line
   - ```ni<text>``` - inserts ```<text>``` n times 
@@ -60,6 +60,22 @@ These are more vim commands you can use in the terminal; they're useful for when
     - search for a word in text files or file names
     - supports regular expressions
     - very useful in combination with [pipe][4] ```|```
+
+## Standard Input/Output (stdio)
+
+* #### Some characters and their functions:
+  - will be updated soon
+
+* :)
+
+## Web Tools
+will be updated soon :))
+
+## FTP and SCP
+will be updated soon :)))
+
+## ```apt-get``` and ```apt-cache```
+will be updated soon :))))
 
 [1]:https://www.gnu.org/software/emacs/
 [2]:http://www.vim.org/
