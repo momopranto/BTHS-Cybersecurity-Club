@@ -3,7 +3,7 @@
 The presentation from this week's workshop is available [here](https://goo.gl/H3Z5jp).  If you don't understand the memes, read up!
 
 ## Job Control
-Shortcuts within linux
+Practical shortcuts within the linux terminal:
 * ```Ctrl+c``` - kill a job in the foreground (quit/cancel)
 * ```Ctrl+z``` - suspend a job (stop)
 * ```Ctrl+d``` - terminate a job
