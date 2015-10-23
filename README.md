@@ -13,7 +13,7 @@ Workshops are held after 10th period at Brooklyn Technical High School on Thursd
 The content of these workshops is intended to be strictly for educational purposes. BTHS Cybersecurity Club does not endorse or promote any kind of illegal offensive attacks. Please make wise decisions. You will be held responsible for your own actions.
 
 ##### Contact Info:
-If you have any questions, comments, or concerns please feel free to email anyone here:
+If you have any questions, comments, or concerns, please feel free to email anyone here:
 - Emilly Ly (President): <a href='mailto:ely7601@bths.edu'>ely7601@bths.edu</a>
 - Mary Karroqe (Vice-President): <a href='mailto:mkarroqe5263@bths.edu'>mkarroqe5263@bths.edu</a>
 - Momopranto Amin (Lecturer): <a href='mailto:m.amin@nyu.edu'>m.amin@nyu.edu</a>
