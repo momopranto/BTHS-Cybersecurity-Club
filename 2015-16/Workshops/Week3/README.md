@@ -66,7 +66,7 @@ These are more vim commands you can use in the terminal; they're useful for when
 * #### Some characters and their functions:
   - will be updated soon
 
-* :)
+* 
 
 ## Web Tools
 will be updated soon :))
