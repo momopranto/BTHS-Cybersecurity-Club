@@ -64,7 +64,7 @@ These are more vim commands you can use in the terminal; they're useful for when
 ## Standard Input/Output (stdio)
 The idea of this is pretty straight forward: programs take input from the console (the keyboard) and print its output on the console (the screen).
 
-* #### Some characters and their functions: (input)
+#### Some characters and their functions: (input)
   - ```>``` - Redirects standard output
   - ```>&``` - Redirects standard output and standard error
   - ```<``` - Redirects standard output
