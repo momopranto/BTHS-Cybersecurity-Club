@@ -62,20 +62,45 @@ These are more vim commands you can use in the terminal; they're useful for when
     - very useful in combination with [pipe][4] ```|```
 
 ## Standard Input/Output (stdio)
+The idea of this is pretty straight forward: programs take input from the console (the keyboard) and print its output on the console (the screen).
 
-* #### Some characters and their functions:
-  - will be updated soon
-
-* 
+* #### Some characters and their functions: (input)
+  - ```>``` - Redirects standard output
+  - ```>&``` - Redirects standard output and standard error
+  - ```<``` - Redirects standard output
+  - ```|``` - Pipe; redirects standard output to another command
+  - ```>>``` - Append (add on to) standard output
+  - ```>>&``` Append standard output and standard error
 
 ## Web Tools
-will be updated soon :))
+These are commands that allow you to connect to and modify files from the web.
+
+* ```wget``` - download a file from web
+* ```curl``` - data transfer tool that can be used to make http requests (GET/POST)
+  - GET/POST affects how data is encrypted in a websites URL
+* ```nc``` - open or connect to a TCP/UDP websocket
+  - TCP/UDP are two encryption protocols that protect data packets as they are sent across the web
+* ```ssh``` - remotely connect to another computer
 
 ## FTP and SCP
-will be updated soon :)))
+* **FTP**: **F**ile **T**ransfer **P**rotocol
+  - FTP is used to transfer files from one host to another.  An example of this is using an FTP client to update a website; the client would transfer files hosted on your computer locally to a remote server where they can be accessed anywhere online.
+  - Terminal Commands:
+    * ```connect``` - connect to a remote FTP server
+    * ```!<command>``` - excecute as local server
+    * ```get``` - download file from remote directory
+    * ```put``` - upload file to remote directory
+    * Other commands we've covered, like ```ls```, ```cd```, ```mkdir```, etc, also apply.
 
 ## ```apt-get``` and ```apt-cache```
-will be updated soon :))))
+* commands used to download and work with software packages, and is tied into the Debian package manager.
+* allow you to manage things you download
+* Commands:
+  - ```upgrade``` - install newest version of all packages
+  - ```update``` - resync packages indexes; update
+  - ```install``` - install package (program)
+  - ```remove``` - uninstall package
+  - ```apt-cache-search``` - search package in indexes
 
 [1]:https://www.gnu.org/software/emacs/
 [2]:http://www.vim.org/
