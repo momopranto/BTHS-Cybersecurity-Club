@@ -1,6 +1,7 @@
 # File Forensics
 
-<!-- someone put sign in form pls -->
+**[Click here to sign in for today's meeting](http://bit.ly/bthscyber).**
+
 This week we will dive into the world of files. 
 By now, everyone should either have access to the [server](http://128.238.66.241:57575) or bring in their laptop.
 This week will be very interactive so don't forget to bring your laptop and have a VM set up.
