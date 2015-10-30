@@ -7,6 +7,6 @@ The difficulty of these exercises are as follows:
 - this-is-an-exe.exe
 - hello.jpg
 - uninteresting_gif.gif
-- drak.jpg
+- drake.jpg
 
 *harder*
