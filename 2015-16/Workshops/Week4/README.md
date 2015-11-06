@@ -66,6 +66,7 @@ Count and skip are optional parameters. Leaving count blank will just copy the e
   
 Data can be hidden in images by storing the information in the least significant bits of a pixel.
 ![](https://www.ethicalhacker.net/i/features/books/terrornet/terror4.jpg)
+
 One pixel can represent a **LOT** of different colors through some combination of red, green, and blue. The above picture tells us the amount of red, green, and blue in the pixel in binary. We can also put this in normal rgb notation as rgb(44,44,44) but to understand how the data is hidden we need to look at it in binary.
 
 Lets say we have a word we want to hide like: "hello".
