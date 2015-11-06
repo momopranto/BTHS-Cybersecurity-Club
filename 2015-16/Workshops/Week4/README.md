@@ -10,6 +10,7 @@ That helps us understand what kind of file it is and what we need to open it wit
 ### But how does the computer tell the difference?
 All files have raw binary data that looks something like this:
 ![](http://tierradatarecovery.co.uk/wp-content/uploads/2013/05/pic1.jpg)
+
 This raw data can be viewed in a hex editor such as [XVI32](http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm) or [frhed](http://frhed.sourceforge.net/en/) for Windows. Linux/Unix has a built in hex editor called ```xxd```
 
   
