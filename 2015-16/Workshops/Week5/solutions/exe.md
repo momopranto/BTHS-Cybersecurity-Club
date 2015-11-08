@@ -1,3 +1,5 @@
+# this-is-an-exe.exe
+
 Solution:
 When you have an exe file that says, “This is an exe” it comes off as pretty suspicious. So why not check to see if it is REALLY an exe file; and that’s what I did.
 
