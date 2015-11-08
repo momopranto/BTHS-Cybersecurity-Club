@@ -1,31 +1,31 @@
 Solution:
-When you have an exe file that says, ìThis is an exeî it comes off as pretty suspicious. So why not check to see if it is REALLY an exe file; and thatís what I did.
+When you have an exe file that says, ‚ÄúThis is an exe‚Äù it comes off as pretty suspicious. So why not check to see if it is REALLY an exe file; and that‚Äôs what I did.
 
 1.	First, in order to see the raw data you will need a hex editor. Since I was using windows for this, I downloaded XVI32 (For Linux Users, you guys have a built in hex editor already: xxd).
 
 2.	Next, of course, I downloaded the exe file and, using XVI32, I opened it.
 
 
-3.	When I opened it I saw this:![](images/initial.jpg)
+3.	When I opened it I saw this:![](/files/images/initial.jpg)
  
 
 4.	Now that I see the raw data, in order to find out what the file really is, you need to obtain its File Signature. In order to find that, you look for its header and footer.
 	For this file, it is:
 
-	Header:![](images/header.jpg)
+	Header:![](/files/images/header.jpg)
  
 
-	Footer:![](images/footer.jpg)
+	Footer:![](/files/images/footer.jpg)
  
 
 5.	Now that you have the header and footer of the file, you go to www.garykessler.net/library/file_sigs.html (Resource for File Signatures) and find it.
 
 6.	I used control find and input the header into the search bar and it brought me to this:
-	![](images/final.jpg)
+	![](/files/images/final.jpg)
  	
 	I guess that file was not an exe, but rather a png file.
 
-7.	Also, if it helps, It literally says ì%PNGî
-	![](images/png.jpg)
+7.	Also, if it helps, It literally says ‚Äú%PNG‚Äù
+	![](/files/images/png.jpg)
 
 
