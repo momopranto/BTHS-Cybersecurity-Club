@@ -14,8 +14,8 @@ The content of these workshops is intended to be strictly for educational purpos
 
 ##### Contact Info:
 If you have any questions, comments, or concerns, please feel free to email anyone here:
-- Emilly Ly (President): <a href='mailto:ely7601@bths.edu'>ely7601@bths.edu</a>
+- [Emilly Ly](http://github.com/emillyly) (President): <a href='mailto:ely7601@bths.edu'>ely7601@bths.edu</a>
 - [Mary Karroqe](http://github.com/mkarroqe) (Vice-President): <a href='mailto:mkarroqe5263@bths.edu'>mkarroqe5263@bths.edu</a>
 - [Momopranto Amin](http://github.com/momopranto) (Lecturer): <a href='mailto:m.amin@nyu.edu'>m.amin@nyu.edu</a>
-- Jesse Chen (Secretary): <a href='mailto:jessechen0206@gmail.com'>jessechen0206@gmail.com</a>
+- [Jesse Chen](http://github.com/jchen2111) (Secretary): <a href='mailto:jessechen0206@gmail.com'>jessechen0206@gmail.com</a>
 - Jay He (Treasurer): <a href='mailto:hhe8856@bths.edu'>hhe8856@bths.edu</a>
