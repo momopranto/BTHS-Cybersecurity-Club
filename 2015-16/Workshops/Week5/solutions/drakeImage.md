@@ -4,9 +4,9 @@
 
 2.Open the drake.jpg image on github and click raw.
 
-3.Download the the file using '''wget'''.
+3.Download the the file using ```wget```.
   It should lookd like this:
-  '''wget url of image'''
+  ```wget url of image```
   
 4.
 
