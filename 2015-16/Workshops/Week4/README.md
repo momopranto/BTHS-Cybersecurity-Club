@@ -60,6 +60,8 @@ Usage: `dd if=input_file of=output_file bs=? count=? skip=?`
 
 Count and skip are optional parameters. Leaving count blank will just copy the entire input file. Leaving skip blank will just start copying from the beginning of the file.
 
+Another great resource [here](http://dirtbags.net/ctf/tutorial/carving.html)
+
 ### LSB Steganography
 
 [Steganography](http://www.garykessler.net/library/steganography.html) is the science of hiding data, usually in plain sight.
