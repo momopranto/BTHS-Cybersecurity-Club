@@ -24,6 +24,11 @@
 
    `unzip newFileName.zip`
 
-8. 
+8. Upload the file and follow the link using ```imgur```.
+
+   `imgur congration.jpg`
+   
+YAY PROB
+LEM SOLVED!
 
 
