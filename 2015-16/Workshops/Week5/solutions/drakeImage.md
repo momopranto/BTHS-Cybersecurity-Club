@@ -4,14 +4,26 @@
 
 2. Open the drake.jpg image on github and click raw.
 
-3. Download the the file using ```wget```.
+3. Download the the file using ```wget```:
 
-   It should look like this:
-
-   ```wget url of image```
+   `wget urlOfImage`
   
-4. Look at the file signature using ```xxd```.
-   
+4. Look at the file signature using ```xxd```:
 
+   `xxd drake.jpg`
+   
+5. Use ```grep``` to find a pattern:
+
+   `xxd drake.jpg | grep 'PK'`
+   
+6. Carve the file:
+ 
+   `dd if=drake.jpg of=newFileName.zip bs=? count=? skip=?`
+
+7. Unzip the file:
+
+   `unzip newFileName.zip`
+
+8. 
 
 
