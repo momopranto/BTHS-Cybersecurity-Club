@@ -28,7 +28,6 @@
 
    `imgur congration.jpg`
    
-YAY PROB
-LEM SOLVED!
+YAY PROBLEM SOLVED!
 
 
