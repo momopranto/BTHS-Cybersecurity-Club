@@ -103,7 +103,7 @@ These are commands that allow you to connect to and modify files from the web.
   - ```apt-cache-search``` - search package in indexes
 
 #Yus
-You are now ready to attempt the excercise!
+You are now ready to attempt the excercise! 
 
 [1]:https://www.gnu.org/software/emacs/
 [2]:http://www.vim.org/
