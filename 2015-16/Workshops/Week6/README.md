@@ -1,6 +1,8 @@
 #Recon and Google
 You can find this week's presentation [here][1].  If you're not a pro internet stalker by the end of it, you didn't read through well enough :)
 
+*_This file is still being edited_*
+
 ##Recon?
 Gathering intelligence
 
