@@ -45,3 +45,56 @@ Sensitive information such as personal info and bank information should always b
 
 **Ciphertext (shifted 4):** nslr gire
 
+## Substitution Cipher
+
+Solve using frequency analysis (most frequently used letters are a,e,h,i,n,o,r,s,t,u)
+Look for patterns and repeating words. The longer the sample the better.
+
+## Morse Code
+
+## One Time Pad
+
+One time pads are not meant to be decrypted.
+
+The data is input to an algorithm that spits out the same output every time it gets that same input.
+
+**MD5:** Hashing algorithm
+
+**Plaintext:** cybersecurity
+
+**Hash Generated:** b03a894e101746d09277f1f255cc8a40
+
+## Single Byte XOR
+
+A ⊕ A = 0
+
+A ⊕ ? = B
+
+B ⊕ ? = A
+
+**Plaintext:** hello 
+
+**Hex:** 68 65 6c 6c 6f
+
+**Key:** 1
+  0x68⊕1    0x65⊕1     0x6c⊕1      0x6c⊕1       0x6f⊕1
+  
+  0x69      0x64       0x6d        0x6d         0x6e
+  
+  i         d          m           m            n
+
+## Other Types of Crypto
+
+* Base64 encoding
+* Vigenere cipher
+* RSA
+* AES
+* RC4
+* Enigma
+
+#### Practice
+
+[http://cryptopals.com]
+
+
+
