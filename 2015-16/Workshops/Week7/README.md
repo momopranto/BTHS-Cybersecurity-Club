@@ -6,17 +6,17 @@ This weeks brain blast is: [The Fuck](https://github.com/nvbn/thefuck)
 
 ## Some Crypto Challenges
 
-Caesar: [https://picoctf.com/crypto_mats/#classicalintro]
+Caesar: https://picoctf.com/crypto_mats/#classicalintro
 
-Substitution: [http://practicalcryptography.com/ciphers/simple-substitution-cipher]
+Substitution: http://practicalcryptography.com/ciphers/simple-substitution-cipher
 
-OTP: [https://picoctf.com/crypto_mats/#otp]
+OTP: https://picoctf.com/crypto_mats/#otp
 
-XOR: [https://picoctf.com/crypto_mats/#modern_versions]
+XOR: https://picoctf.com/crypto_mats/#modern_versions
 
-Other: [http://practicalcryptography.com/ciphers]
+Other: http://practicalcryptography.com/ciphers
 
-Challenges: [http://cryptopals.com]
+Challenges: http://cryptopals.com
 
 ## What is Cryptography?
 
@@ -92,9 +92,7 @@ B ⊕ ? = A
 * RC4
 * Enigma
 
-#### Practice
 
-[http://cryptopals.com]
 
 
 
