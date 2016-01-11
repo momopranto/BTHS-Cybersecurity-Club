@@ -1,7 +1,7 @@
 <?php
     if (isset($_POST['password'])) {
 	if (md5($_POST['password'])=='e9b574e8a51f6e19e6ad8753860deea4') {
-	    ////hint: the password is 8 characters long and contains 4 lowercase letters followed by a number and 3 more lowercase letters
+	    ////hint: the password is 6 characters long and contains lowercase letters (%s) and numbers (%d) in the following format, %s%s%d%d%s%d
             echo "flag{XXXXXXXXXXXXXXXXXXX}";
         }
     }
