@@ -7,17 +7,19 @@ This weeks brain blast is: [The Fuck](https://github.com/nvbn/thefuck)
 
 ## What is Cryptography?
 
-Greek word for secret or hidden.
+Greek word for secret or hidden. 
 
 The art of writing in secret code.
 
-Encryption: converting a message into a form that cannot be interpreted and understood.
+Cryptography is a method of storing and transmitting data in a particular form so that only those for whom it is intended can read and process it.
 
-Decryption: converting an encrypted message into a form that can be easily interpreted and understood.
+Encryption: converting a message into a form that cannot be interpreted and/or understood.
+
+Decryption: converting an encrypted message into a form that can be easily interpreted and/or understood.
 
 ## Why and where do we use crypto?
 
-Sensitive information such as personal info and bank information should always be encrypted. In general, anything you don’t want random strangers to be able to see if intercepted over the internet.
+Sensitive information such as personal info and bank information should always be encrypted. In general, anything you don’t want strangers to be able to see if intercepted over the internet.
 
 * Passwords
 * Financial transfers
@@ -30,13 +32,17 @@ Sensitive information such as personal info and bank information should always b
 
 The Caesar cipher is one of the earliest known and simplest ciphers. It is a substitution cipher where each letter in the plaintext is "shifted" a certain number of places down the alphabet. With a shift of 1, A would be replaced by B, B would become C, and so on. The method is named after Julius Caesar, who apparently used it to communicate with his generals.
 
-**Plaintext:** A B C D
+**Example 1:**
 
-**Ciphertext (shifted 1):** B C D E
+Plaintext: A B C D
 
-**Plaintext:** john cena
+Ciphertext (shifted 1): B C D E
 
-**Ciphertext (shifted 4):** nslr gire
+**Example 2:**
+
+Plaintext: john cena
+
+Ciphertext (shifted 4): nslr gire
 
 Try this challenge: https://picoctf.com/crypto_mats/#classicalintro
 
