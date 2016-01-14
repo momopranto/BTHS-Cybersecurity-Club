@@ -4,19 +4,6 @@ This weeks presenation can be found [here](https://goo.gl/6ZY3v4)
 
 This weeks brain blast is: [The Fuck](https://github.com/nvbn/thefuck)
 
-## Some Crypto Challenges
-
-Caesar: https://picoctf.com/crypto_mats/#classicalintro
-
-Substitution: http://practicalcryptography.com/ciphers/simple-substitution-cipher
-
-OTP: https://picoctf.com/crypto_mats/#otp
-
-XOR: https://picoctf.com/crypto_mats/#modern_versions
-
-Other: http://practicalcryptography.com/ciphers
-
-Challenges: http://cryptopals.com
 
 ## What is Cryptography?
 
@@ -45,10 +32,14 @@ Sensitive information such as personal info and bank information should always b
 
 **Ciphertext (shifted 4):** nslr gire
 
+Try this challenge: https://picoctf.com/crypto_mats/#classicalintro
+
 ## Substitution Cipher
 
 Solve using frequency analysis (most frequently used letters are a,e,h,i,n,o,r,s,t,u)
 Look for patterns and repeating words. The longer the sample the better.
+
+Try this challenge: http://practicalcryptography.com/ciphers/simple-substitution-cipher
 
 ## Morse Code
 
@@ -57,6 +48,8 @@ Look for patterns and repeating words. The longer the sample the better.
 One time pads are not meant to be decrypted.
 
 The data is input to an algorithm that spits out the same output every time it gets that same input.
+
+Try this challenge: https://picoctf.com/crypto_mats/#otp
 
 **MD5:** Hashing algorithm
 
@@ -71,6 +64,8 @@ A ⊕ A = 0
 A ⊕ ? = B
 
 B ⊕ ? = A
+
+Try this challenge: https://picoctf.com/crypto_mats/#modern_versions
 
 **Plaintext:** hello 
 
@@ -91,6 +86,12 @@ B ⊕ ? = A
 * AES
 * RC4
 * Enigma
+
+### Other Challenges to Try
+
+http://practicalcryptography.com/ciphers
+
+http://cryptopals.com
 
 
 
