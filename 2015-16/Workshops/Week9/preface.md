@@ -2,7 +2,8 @@
 
 Sign in to this weeks club [here](http://bit.ly/bthscyber)!
 
-Sign in to this weeks club [here](https://goo.gl/ErLUDN).
+This weeks presentation can be found [here](https://goo.gl/ErLUDN).
+
 This week we will be learning how to reverse engineer programs. We will be using Python and we recommend following along with us. If you would like to use a different language go for it but we cannot help you.
 
 To get started, make sure you have Python installed. We will be using Python 2, not 3.
