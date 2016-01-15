@@ -1,0 +1,1 @@
+flag{r@nd0m!=s3cur3}
