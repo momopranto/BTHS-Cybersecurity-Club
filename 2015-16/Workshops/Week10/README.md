@@ -14,7 +14,7 @@ Taken from git-scm.com:
 
 >As you edit files, Git sees them as modified, because you’ve changed them since your last commit. You stage these modified files and then commit all your staged changes, and the cycle repeats.
 
-![alt tag](https://git-scm.com/book/en/v2/book/02-git-basics/images/lifecycle.png)
+>![alt tag](https://git-scm.com/book/en/v2/book/02-git-basics/images/lifecycle.png)
 
 ##A bit of Git
 A quick rundown of a few basic terminal commands:
