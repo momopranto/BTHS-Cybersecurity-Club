@@ -1,4 +1,7 @@
 #Let's Git Going: An Overview of Git and Github
+
+This week's presentation can be found [here](https://goo.gl/kb6TPA).
+
 You should all already have a vague idea of what Github is and does, since you're using it right now!  This week we covered the basics of Github, the advantages of using it, and how to work it from the command line with git.
 ##What is Github?
 Github can be thought of as Google Drive for code, with a few extra features.  It allows users to upload their code to allow other users to view it, edit it, or make their own modifications on it, all while keeping track of past edits.
